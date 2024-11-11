@@ -1,4 +1,6 @@
 # Visualizing the three body problem
+![](simulation.gif)
+
 This projects uses the universal law of gravitation, some simple ordinary differential equations and the [VPython](https://vpython.org/) library to visualize a simulation of the [three body problem](https://en.wikipedia.org/wiki/Three-body_problem). Run the simulation yourself with: `$ python3 src/main.py`
 
 ## To do
